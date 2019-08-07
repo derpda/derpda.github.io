@@ -1,0 +1,13 @@
+version: '3'
+services:
+  site:
+    command: jekyll serve --watch --drafts
+    image: jekyll/jekyll:3.8
+    volumes:
+      - $PWD:/srv/jekyll
+      - github_cv_gems:/usr/local/bundle
+    ports:
+      - 4000:4000
+
+volumes:
+  github_cv_gems:
