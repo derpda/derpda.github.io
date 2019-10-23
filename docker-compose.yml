@@ -2,7 +2,7 @@ version: '3'
 services:
   site:
     command: jekyll serve --watch --drafts
-    image: jekyll/minimal:3.8
+    image: jekyll/jekyll
     volumes:
       - $PWD:/srv/jekyll
       - github_cv_gems:/usr/local/bundle
