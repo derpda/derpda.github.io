@@ -17,9 +17,9 @@ title: Peter Spalthoff
 logo: "assets/images/photo.jpg"
 email: peter.spalthoff@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a computer science student and currently a PhD student in Yokota
-  laboratory at the <a href="https://www.titech.ac.jp/english/">Tokyo Institute of Technology</a>. My research is in the field
-  of High Performance Computing.
+  I am a PhD candidate in Computer Science and a member of the Yokota
+  laboratory at the <a href="https://www.titech.ac.jp/english/">Tokyo Institute of Technology</a>.
+  My research is in the field of High Performance Computing.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://derpda.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: derpda
