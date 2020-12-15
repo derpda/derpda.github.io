@@ -5,30 +5,36 @@
 layout: default
 ---
 # Education
-### BSc in Physics
+### Bachelor of Science in Physics
 Albert-Ludwigs University Freiburg, Germany\\
 2012-2016\\
 GPA 3.7/4.0
 
-### Msc in Computer Science
-Tokyo Institute of Technology, Japan\\
-2018-Present\\
-GPA 4.0/4.0
+### Master of Sciene in Computer Science
+Tokyo Institute of Technology (Tokyo Tech), Japan\\
+2018/04-2020/03\\
+GPA 4.0/4.0\\
+Graduated second in class
+
+### PhD in Computer Science
+Tokyo Institute of Technology (Tokyo Tech), Japan\\
+2020/04-Present
 
 # Vocational Experience
 ### Bosch Packaging Technology
-Software Engineer, 2016/10~2017/9
+Software Engineer, 2016/10~2017/09
  - GPU acceleration of computer vision applications
  - High-speed OCR for randomly rotated engraved letters
 
 ### Fixstars
-Software Engineer, 2018/9 and 2019/4~Present
+Software Engineer, 2018/09 and 2019/4~2019/10
  - GPU acceleration of a median filter
  - General software acceleration work
 
 ### Nefrock
-Software Engineer, 2019/6~Present
+Software Engineer, 2019/06~Present
  - Camera localization using SLAM
+ - FPGA implementation of a Vocoder network (voice changing)
 
 # Publications
 <span style="color:black">Flexible and Simplistic Hierarchical Matrix-Based Fast Direct Solver</span>\\
