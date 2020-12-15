@@ -57,5 +57,5 @@ _**<span style="color:grey">Peter Spalthoff</span>**, Rio Yokota_\\
 
 # Languages
 **German** - Native\\
-**English** - Business Level\\
-**Japanese** - Business Level
+**English** - Business Level (TOEFL iBT 115/120, IELTS 8.5/9.0)\\
+**Japanese** - Business Level (JLPT N1 167/180)
