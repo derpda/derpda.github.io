@@ -36,6 +36,13 @@ Software Engineer, 2019/06~Present
  - Camera localization using SLAM
  - FPGA implementation of a Vocoder network (voice changing)
 
+# Scholarships and awards
+ - Full DAAD Scholarship 2014/10-2015/08
+ - JT Global Scholarship 2019/04-2021/03
+ - Tuition waver through awarded as member of the Academy for Global Leadership
+   (AGL) at Tokyo Tech
+ - HULT prize campus winner at Tokyo Tech
+
 # Publications
 <span style="color:black">Flexible and Simplistic Hierarchical Matrix-Based Fast Direct Solver</span>\\
 _**<span style="color:grey">Peter Spalthoff</span>**, Rio Yokota_\\
